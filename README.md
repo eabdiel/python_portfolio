@@ -1,7 +1,7 @@
 # python_portfolio
 Some of my hobby Projects:
 
-App0 is my jupyter notebook projects
+App0 contains some of my jupyter notebook projects
 
 App1 contains a project that interacts with a JSON file to provide english word definitions
 
