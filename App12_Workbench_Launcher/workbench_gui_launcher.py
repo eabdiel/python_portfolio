@@ -6,8 +6,6 @@ for instant access.  App remains visible on the system tray.
 '''
 
 # !/usr/bin/env python
-
-__author__ = 'Edwin Rodriguez'
 __version__ = '0.1'
 
 from collections import defaultdict
