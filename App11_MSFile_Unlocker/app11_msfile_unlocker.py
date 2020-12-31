@@ -3,7 +3,7 @@ Modified version of github.com/petemc89's craXel's 'MS password remove' tool.
 Arguments were replaced with tkinter UI with bot-like functionality
 Program has text based input with results being sent out to text area
 Automatically identifies list.txt files and macro content
---this standalone version is part of the dev_bot_toolkit |
+--this standalone version will be part of my dev_bot_toolkit project|
 """
 
 import abc
