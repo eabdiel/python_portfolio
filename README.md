@@ -1,5 +1,5 @@
 # python_portfolio
-Some of my hobby Projects:
+Some of my hobby & cookbook-reference Projects:
 
 App0 contains some of my jupyter notebook projects
 
