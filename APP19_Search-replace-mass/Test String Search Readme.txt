@@ -1,0 +1,1 @@
+Use DMS-\d+-MM to search for DMS#####MM string within all files in the Test String Search folder
