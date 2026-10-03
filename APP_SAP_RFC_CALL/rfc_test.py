@@ -1,6 +1,6 @@
 """
 SAP SSO Team Connection & RFC Tester (Auto-Setup)
-Author: Edwin Rodriguez (Arthrex IT SAP COE)
+Author: Ed Rodriguez - ProgreTech LLC
 Date: 2025-10-22
 
 Features
