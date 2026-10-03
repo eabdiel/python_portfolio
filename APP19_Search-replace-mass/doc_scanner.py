@@ -2,7 +2,7 @@
 /***********************************************************************
 * Program: Document Scanner
 * Version: 3.3
-* Created by: Arthrex IT SAP COE GRM Team
+* Project owner and maintainer: ProgreTech LLC (Ed Rodriguez)
 * Developer: Edwin Rodriguez
 * Date: 2025-10-02
 *
